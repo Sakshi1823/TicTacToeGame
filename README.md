@@ -91,9 +91,9 @@ Make sure you have the following installed:
 2. Add a new **Application** configuration
 3. Set the following:
 
-**Main class**
+   **Main class**
 
-**VM options**
+   **VM options**
 
 ---
 
